@@ -1,7 +1,7 @@
 
 ## 🏫 Education 🏫
 Hanyang Women's University(2020~)
-> Department of Software Convergence(2020~)
+> Department of Software Convergence 
 <br><br>
 
 ## Tech Stack
