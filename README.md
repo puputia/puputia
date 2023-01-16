@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome!%Kanon's World!)
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuputia%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2344DBF2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
