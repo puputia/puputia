@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto/text=Welcome!%Kanon's World!)
+![header](https://capsule-render.vercel.app/api?/text=Welcome!%Kanon's World!)
 ## 🏫 Education 🏫
 Hanyang Women's University(2020~)
 > Department of Software Convergence 
