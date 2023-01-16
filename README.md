@@ -85,9 +85,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![hyunjung's 42 stats](https://badge42.vercel.app/api/v2/cl1olsw2u002509mbxgf21abu/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
-	
-![devicii's github stats](https://github-readme-stats.vercel.app/api?username=asroq1&show_icons=true&theme=gruvbox)
+![puputia's github stats](https://github-readme-stats.vercel.app/api?username=puputia&show_icons=true&theme=tokyonight)
 
 </div>
 
