@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?height=400&text=Welcome%20to&desc=Kanon's%20World)
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 
  
-
+<div align="center">
   
 [![Kanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=puputia)]()
 
