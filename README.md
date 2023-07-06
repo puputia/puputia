@@ -49,7 +49,6 @@ Hanyang Women's University(2020~)
 |2022.11 - 2022.02|SWYG 4기 프로젝트 `Aniwana`|나에게 맞는 애니메이션 추천 서비스(애니와나)|React|테스트 페이지 제작 - 홈, 질문페이지, 결과페이지|
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puputia&langs_count=10&layout=compact)]()
 
 <!--
 **puputia/puputia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,8 +70,10 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  
-![puputia's github stats](https://github-readme-stats.vercel.app/api?username=puputia&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puputia&langs_count=10&layout=compact)]()
+[![Kanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=puputia)]()
+
+
 
 </div>
 
