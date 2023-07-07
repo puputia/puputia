@@ -76,7 +76,6 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Kanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=puputia)]()
-https://github-readme-stats.vercel.app/api?username=puputia)&hide=stars,contribs&count_private=true
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puputia&langs_count=10&layout=compact)]()
 </div>
