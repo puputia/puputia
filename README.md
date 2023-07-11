@@ -1,7 +1,7 @@
 
 <div align="center>
 ![header](https://capsule-render.vercel.app/api?height=400&text=Welcome%20to&desc=Kanon's%20World)
-</div>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuputia%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2344DBF2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <img height="180em"  src="https://github-readme-stats-zeta-lac.vercel.app/api/top-langs/?username=puputia&layout=compact&hide=jupyter%20notebook" />
 
 </p>
-
+</div>
 <!-- token
 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
 -->
