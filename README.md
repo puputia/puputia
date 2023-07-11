@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 
 
- 
-<div align="center">
+## 🔰 Status
+<p align="center">
   
-[![Kanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=puputia)]()
+<img height="180em" src="github-readme-stats-zeta-lac.vercel.app/api?username=puputia&show_icons=true" />
+<img height="180em" src="github-readme-stats-zeta-lac.vercel.app/api/top-langs/?username=puputia&layout=compact&hide=jupyter%20notebook" />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puputia&langs_count=10&layout=compact)]()
-</div>
+</p>
 
