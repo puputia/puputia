@@ -9,7 +9,7 @@ Hanyang Women's University(2020.3~2024.2)
 > Department of Software Convergence 
 <br><br>
 
-## Tech Stack
+## 📚 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
