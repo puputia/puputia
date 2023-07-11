@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 ## 🔰 Status
 <p align="center">
   
-  <img height="180em" alt="" src="https://github-readme-stats-zeta-lac.vercel.app/api?username=puputia&show_icons=true" />
-  <img height="180em" alt="" src="https://github-readme-stats-zeta-lac.vercel.app/api/top-langs/?username=puputia&layout=compact&hide=jupyter%20notebook" />
+  <img height="180em" alt="" src="https://github-readme-stats-zeta-lac.vercel.app/api?username=Kanon&show_icons=true" />
+  <img height="180em" alt="" src="https://github-readme-stats-zeta-lac.vercel.app/api/top-langs/?username=Kanon&layout=compact&hide=jupyter%20notebook" />
 
 </p>
 
