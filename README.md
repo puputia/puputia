@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 ## 🔰 Status
 <p align="center">
   
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
   <img height="180em"  src="https://github-readme-stats-zeta-lac.vercel.app/api/top-langs/?username=puputia&layout=compact&hide=jupyter%20notebook" />
 
 </p>
-
+-->
 <!-- token
 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
 -->
