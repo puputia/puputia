@@ -39,14 +39,11 @@ Hanyang Women's University(2020.3~2024.2)
   |---|----|---|
   |2021.08 - 2021.08|코뮤니티 모각코 스터디 html/css 과정|HTML, CSS|
   |2021.11 - 2021.11|코뮤니티 모각코 스터디 JS 과정|HTML, CSS, JavaScript|
- 
   |2022.03 - 2022.07|MyShop 프로젝트(쇼핑몰 프로젝트)|HTML, CSS, JavaScript|
   |2022.11 - 2022.02|SWYG 4기 프로젝트|React|
   |2023.07 - 2023.08|여름방학 단기 코테 스터디(프로그래머스 고득점 Kit 1,2 단계 풀기)|JavaScript|
 
- <!--
- |2022.02 - 2022.04|이펙티브 타입스크립트 스터디|TypeScript|
- --> 
+
 <br><br>
 
 ## 📱Projects 📱
