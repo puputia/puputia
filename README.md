@@ -53,7 +53,7 @@ Hanyang Women's University(2020.3~2024.2)
 |2021.11 - 2021.11|[코뮤니티 모각코 스터디 JS 과정](https://github.com/puputia/Mogakko_JS)|나만의 챗봇만들기|HTML, CSS, JavaScript||
 |2022.03 - 2022.07|[`MyShop`(쇼핑몰 프로젝트)](https://github.com/puputia/Myshop_project) |로그인/회원가입, 상품검색, 장바구니 담기가 되는 쇼핑몰 프로젝트|HTML, CSS, JavaScript|로고디자인,로그인/회원가입,홈,마이페이지,장바구니 페이지 제작,상품 등록|
 |2022.11 - 2022.02|[SWYG 4기 프로젝트 `Aniwana`](https://github.com/puputia/Ani-wana)|나에게 맞는 애니메이션 추천 서비스(애니와나)|React|테스트 페이지 제작 - 홈, 질문페이지, 결과페이지|
-|2023.04 - 2023.12|[스마트 모빌리티 캡스톤 프로젝트 `PHOTOCATE`]([https://github.com/puputia/Ani-wana](https://github.com/Yongsoojin/capstone/tree/hyein))|메타데이터 기반 사진 편집 & 사진 분류 서비스(포토카테)|React|테스트 페이지 제작 - 홈, 로그인, 사진 편집페이지, 사진 분류페이지, 이미지 업로드페이지|
+|2023.04 - 2023.12|[스마트 모빌리티 캡스톤 프로젝트 `PHOTOCATE`]([(https://github.com/Yongsoojin/capstone/tree/hyein)])|메타데이터 기반 사진 편집 & 사진 분류 서비스(포토카테)|React|테스트 페이지 제작 - 홈, 로그인, 사진 편집페이지, 사진 분류페이지, 이미지 업로드페이지|
 
 
 
