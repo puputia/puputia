@@ -1,4 +1,4 @@
-# 서혜인, FrontEnd 
+# 서혜인, 사용자에게 편리한 서비스를 제공하는 것을 목표로 추구합니다.
 
 ![header](https://capsule-render.vercel.app/api?height=400&text=Welcome%20to&desc=Kanon's%20World)
 
