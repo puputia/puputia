@@ -43,6 +43,7 @@ Hanyang Women's University(2020.3~2024.2)
   |2022.11 - 2022.02|[`Aniwana`](https://github.com/puputia/Ani-wana)|사용자 응답에 기반한<br/> 애니메이션 추천 서비스|React|개발자: 테스트 페이지 제작 - 홈, 질문페이지, 결과페이지|
   |2022.03 - 2022.07|[`MyShop`](https://speckled-origami-292.notion.site/MyShop-17ec3b0b1f474590b9d6ebd7fbc648da?pvs=74)|로그인,회원가입,상품<br/>검색,장바구니 담기가 되는 쇼핑몰 프로젝트|HTML, CSS, JavaScript|페이지 제작 - 로그인/회원가입,홈,마이페이지,장바구니 ,로고디자인,상품 등록|
 
+<br><br>
 ### 🏃‍♀️ 개인 프로젝트
   |기간|활동명|설명|기술|역할|
   |:---:|:---:|:---:|:---:|:---:|
