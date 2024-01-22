@@ -34,7 +34,7 @@ Hanyang Women's University(2020.3~2024.2)
 </p>
 
 <br><br>
-
+<div align="center">  
 ## ⏱ 대표 프로젝트 ⏱
   |기간|활동명|설명|기술|역할|
   |---|---|---|----|---|
@@ -43,7 +43,7 @@ Hanyang Women's University(2020.3~2024.2)
   |2022.03 - 2022.07|[`MyShop`](https://github.com/puputia/Myshop_project)|로그인,회원가입,상품<br/>검색,장바구니 담기가 되는 쇼핑몰 프로젝트|HTML, CSS, JavaScript|페이지 제작 - 로그인/회원가입,홈,마이페이지,장바구니 ,로고디자인,상품 등록|
   |2021.11 - 2021.11|[`코뮤니티 모각코 JavaScript 과정`](https://speckled-origami-292.notion.site/200c98bc47b642cd8eb87c3ea372efe8?pvs=4)|JS 활용 단기 대외활동|HTML, CSS, JS|사용자 응답에 기반한 루피 챗봇 프로젝트 등 다수|
   |2021.08 - 2021.08|[`코뮤니티 모각코 html/css 과정`](https://speckled-origami-292.notion.site/html-css-7a41806d6aeb41bd9d613f853b38dcbe?pvs=4)|html/css 활용 단기 대외활동|HTML, CSS, JS|홈, 다이어리, 사진첩, 방명록 열람이 가능한 미니홈피 프로젝트 등 다수|
- 
+</div> 
  
   
 
