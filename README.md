@@ -36,7 +36,7 @@ Hanyang Women's University(2020.3~2024.2)
 
 ## ⏱ 대표 프로젝트 ⏱
   |기간|활동명|설명|기술|역할|
-  |---|---|---|---|---|
+  |---|---|---|----|---|
   |2023.04 - 2023.12|[`PHOTOCATE`](https://github.com/Yongsoojin/capstone/tree/hyein)|이미지 처리 기술과 메타데이터를 이용한<br/> 사진편집 & 사진분류 웹사이트|React|페이지 제작 - 홈,로그인,사진분류,사진편집,이미지업로드|
   |2022.11 - 2022.02|[`Aniwana`](https://github.com/puputia/Ani-wana)|사용자 응답에 기반한<br/> 애니메이션 추천 서비스|React|테스트 페이지 제작 - 홈, 질문페이지, 결과페이지|
   |2022.03 - 2022.07|[`MyShop`](https://github.com/puputia/Myshop_project)|로그인/회원가입, 상품검색, <br/>장바구니 담기가 되는 쇼핑몰 프로젝트|HTML, CSS, JavaScript|페이지 제작 - 로그인/회원가입,홈,마이페이지,장바구니 ,로고디자인,상품 등록|
