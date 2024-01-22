@@ -38,10 +38,10 @@ Hanyang Women's University(2020.3~2024.2)
   |기간|활동|기술|설명역할|
   |---|----|---|---|
   |2023.04 - 2023.12|스마트 모빌리티 졸업작품 프로젝트|이미지 처리 기술과 메타데이터를 이용한 사진편집 & 사진분류 웹사이트 - PHOTOCAT)|React|페이지 제작 - 홈,로그인,사진분류,사진편집,이미지업로드|
-  |2022.11 - 2022.02[SWYG 4기 프로젝트 `Aniwana`](https://github.com/puputia/Ani-wana)|사용자 응답에 기반한 애니메이션 추천 서비스 - Aniwana|React|테스트 페이지 제작 - 홈, 질문페이지, 결과페이지|
+  |2022.11 - 2022.02|[SWYG 4기 프로젝트 `Aniwana`](https://github.com/puputia/Ani-wana)|사용자 응답에 기반한 애니메이션 추천 서비스 - Aniwana|React|테스트 페이지 제작 - 홈, 질문페이지, 결과페이지|
   |2022.03 - 2022.07|[`MyShop`(쇼핑몰 프로젝트)](https://github.com/puputia/Myshop_project)|쇼핑몰 프로젝트|HTML, CSS, JavaScript|로그인/회원가입,홈,마이페이지,장바구니 페이지 제작,로고디자인,상품 등록|
-  |2021.11 - 2021.11|[코뮤니티 모각코 스터디 JavaScript 과정]([https://github.com/puputia/Mogakko_html-css](https://speckled-origami-292.notion.site/200c98bc47b642cd8eb87c3ea372efe8?pvs=4)|JS|사용자 응답에 기반한 루피 챗봇 프로젝트 등 다수|
-  |2021.08 - 2021.08|[코뮤니티 모각코 스터디 html/css 과정]([https://github.com/puputia/Mogakko_html-css](https://speckled-origami-292.notion.site/html-css-7a41806d6aeb41bd9d613f853b38dcbe?pvs=4)|HTML, CSS|홈, 다이어리, 사진첩, 방명록 열람이 가능한 미니홈피 프로젝트 등 다수|
+  |2021.11 - 2021.11|[코뮤니티 모각코 스터디 JavaScript 과정](https://github.com/puputia/Mogakko_html-css](https://speckled-origami-292.notion.site/200c98bc47b642cd8eb87c3ea372efe8?pvs=4)|JS|사용자 응답에 기반한 루피 챗봇 프로젝트 등 다수|
+  |2021.08 - 2021.08|[코뮤니티 모각코 스터디 html/css 과정](https://github.com/puputia/Mogakko_html-css](https://speckled-origami-292.notion.site/html-css-7a41806d6aeb41bd9d613f853b38dcbe?pvs=4)|HTML, CSS|홈, 다이어리, 사진첩, 방명록 열람이 가능한 미니홈피 프로젝트 등 다수|
  
  
   
