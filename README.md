@@ -1,4 +1,5 @@
-#Seo Hyein-in , FrontEnd developer
+# 👩‍💻 Seo Hyein-in , FrontEnd developer
+
 ![header](https://capsule-render.vercel.app/api?height=400&text=Welcome%20to&desc=Kanon's%20World)
 
 
