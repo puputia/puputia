@@ -35,7 +35,7 @@ Hanyang Women's University(2020.3~2024.2)
 
 ## 📘 Studying
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <br><br>
 
 ## ⏱ 대표 프로젝트 ⏱
