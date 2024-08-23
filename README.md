@@ -31,16 +31,16 @@ Hanyang Women's University(2020.3~2024.2)
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"> &nbsp
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
-    
+<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ## 📘 Studying
 <p align="left">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> -->
+  
+ <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </p>
 <br><br>
-
+<!--
 ## ⏱ 대표 프로젝트 ⏱
 ### 👨‍👧‍👧협업 프로젝트
   |기간|활동명|설명|기술|역할|
@@ -57,8 +57,7 @@ Hanyang Women's University(2020.3~2024.2)
   |2021.11 - 2021.11|[`루피 챗봇 프로젝트`](https://puputia.github.io/Mogakko_JS/Day15/index.html)|JS 활용 단기 대외활동|HTML, CSS, JS|사용자 응답에 기반한 루피 챗봇 프로젝트|
   |2021.08 - 2021.08|[`나만의 미니홈페이지 프로젝트`](https://puputia.github.io/mini-homepage//minihomepage.html)|html/css 활용 단기 대외활동|HTML, CSS, JS|홈, 다이어리, 사진첩, 방명록 열람이 가능한 미니홈피 프로젝트|
 
- 
-  
+ -->
 
 <br><br>
 
