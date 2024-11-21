@@ -32,13 +32,15 @@ Hanyang Women's University(2020.3~2024.2)
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-## 📘 Studying
+<!-- ## 📘 Studying
 <p align="left">
   
  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </p>
+  -->
 <br><br>
 <!--
 ## ⏱ 대표 프로젝트 ⏱
