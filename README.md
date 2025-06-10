@@ -58,7 +58,7 @@
 
 - 빼박: 약속 증명 서비스 (2024.12.03 ~ 12.09, 테오의 스프린트 18기)
   - `Next.js (App Router)` `TypeScript` `Tailwind CSS` `NestJS`
-  - 약속생성 api 연결, 메인 페이지 개발, 약속 생성 후 자동 리디렉션 및 도장 모달 UI 구현, SSR Hydration 대응
+  - 약속생성 api 연결, 메인 페이지 개발, 약속 생성 후 자동 리디렉션, 약속 승인 확인 커스텀 모달 구현, SSR Hydration 대응
   - [Repo](https://github.com/bbaebak/bbaebak-nextjs/), [Demo](https://bbaebak-nextjs.vercel.app/)
 
 - 애니와나: 애니메이션 추천 서비스 (2022.11 ~ 2023.02, SWYG 4기)
@@ -71,10 +71,15 @@
   - 메타데이터 기반 사진 분류 및 편집 페이지 제작, 홈/로그인/사진 업로드 구현
   - [Repo](https://github.com/Yongsoojin/capstone/tree/hyein), [Demo](https://youtu.be/ii06mfJS2Q8)
 
+- PHOTOCATE: 이미지 처리 및 사진 분류/편집 웹서비스 (2023.04 ~ 12)
+  - `React`, `Node.js`, `JavaScript`
+  - 메타데이터 기반 사진 분류 및 편집 페이지 제작, 홈/로그인/사진 업로드 구현
+  - [Notion 소개 페이지](https://speckled-origami-292.notion.site/Sparta-Coding-Club-f88c68975a2f4099938bce0df55979de), [Repo](https://github.com/puputia/sparta-2022), [Demo](https://deokdam.spartacodingclub.kr/vyksfqaG8LJw/index.html)
+
 - MyShop: 로그인/회원가입 및 쇼핑 기능이 있는 쇼핑몰 웹 (2022.03 ~ 07)
   - `HTML` `CSS` `JavaScript`
   - 상품 검색, 장바구니, 마이페이지 구현, 로고 디자인 및 상품 등록
-  - [Repo](https://github.com/puputia/Myshop_project), [Demo](http://myshop2.s3-website.ap-northeast-2.amazonaws.com/#/)
+  - [Notion 소개 페이지](https://speckled-origami-292.notion.site/MyShop-17ec3b0b1f474590b9d6ebd7fbc648da),[Repo](https://github.com/puputia/Myshop_project), [Demo](http://myshop2.s3-website.ap-northeast-2.amazonaws.com/#/)
 
 - 루피 챗봇 프로젝트 (2021.11)
   - `HTML` `CSS` `JavaScript`
