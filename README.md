@@ -1,6 +1,20 @@
 # 👩‍💻 Seo Hyein-in 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74c0fc,100:5c7cfa&height=200&section=header&text=Hi%20I'm%20Hyein!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</div>
 
+<p align="center">
+  사용자의 경험을 최우선으로 생각하는 <b>프론트엔드 개발자 서혜인</b>입니다. <br/>
+  지속적으로 성장하며 더 나은 사용자 경험을 만드는 개발자가 되고자 합니다. 🌱
+</p>
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-puputia-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/puputia)
+[![Email](https://img.shields.io/badge/Email-sunny100487@naver.com-ffb703?style=flat-square&logo=gmail&logoColor=white)](mailto:sunny100487@naver.com)
+
+</div>
 
 
 ## 📚 Tech Stack
