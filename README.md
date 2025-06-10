@@ -61,17 +61,17 @@
 - MyShop: 로그인/회원가입 및 쇼핑 기능이 있는 쇼핑몰 웹 (2022.03 ~ 07)
   - `HTML` `CSS` `JavaScript`
   - 상품 검색, 장바구니, 마이페이지 구현, 로고 디자인 및 상품 등록
-  - [Notion 소개](https://speckled-origami-292.notion.site/MyShop-17ec3b0b1f474590b9d6ebd7fbc648da?pvs=74)
+  - [Repo](https://github.com/puputia/Myshop_project), [Demo](http://myshop2.s3-website.ap-northeast-2.amazonaws.com/#/)
 
 - 루피 챗봇 프로젝트 (2021.11)
   - `HTML` `CSS` `JavaScript`
   - 사용자 응답 기반 루피 챗봇 구현
-  - [Demo](https://puputia.github.io/Mogakko_JS/Day15/index.html)
+  - [Repo](https://github.com/puputia/Mogakko_JS), [Demo](https://puputia.github.io/Mogakko_JS/Day15/index.html)
 
 - 나만의 미니홈페이지 (2021.08)
   - `HTML` `CSS` `JavaScript`
   - 다이어리/사진첩/방명록 등 열람 가능한 미니홈피 구현
-  - [Demo](https://puputia.github.io/mini-homepage//minihomepage.html)
+  - [Repo](https://github.com/puputia/Mogakko_html-css),[Demo](https://puputia.github.io/mini-homepage//minihomepage.html)
 
 ### Awards
 - `동상` 스마트 모빌리티 캡스톤 프로젝트 (2023.06.15)
