@@ -41,7 +41,7 @@
   - `React` `JavaScript` `Spring Boot` `PyTorch`
   - 알라딘 OpenAPI 기반 도서 검색, 상세정보 제공, 유사도서 추천
   - 좌우 수평 드래그 UI, 공공도서관 대출 여부 조회 기능 구현
-  - [Repo](https://github.com/BookWise2024/Front-end), [Demo](https://www.youtube.com/watch?v=AfKHhJPJ950)
+  - [Repo](https://github.com/BookWise2024/Front-end/tree/FE-TEST), [Demo](https://www.youtube.com/watch?v=AfKHhJPJ950)
 
 - 빼박: 약속 증명 서비스 (2024.12.03 ~ 12.09, 테오의 스프린트 18기)
   - `Next.js (App Router)` `TypeScript` `Tailwind CSS` `NestJS`
