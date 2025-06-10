@@ -71,9 +71,9 @@
   - 메타데이터 기반 사진 분류 및 편집 페이지 제작, 홈/로그인/사진 업로드 구현
   - [Repo](https://github.com/Yongsoojin/capstone/tree/hyein), [Demo](https://youtu.be/ii06mfJS2Q8)
 
-- PHOTOCATE: 이미지 처리 및 사진 분류/편집 웹서비스 (2023.04 ~ 12)
-  - `React`, `Node.js`, `JavaScript`
-  - 메타데이터 기반 사진 분류 및 편집 페이지 제작, 홈/로그인/사진 업로드 구현
+- Sparta Coding Club [호랑이해]덕담 프로젝트  (2023.04 ~ 12)
+  - `HTML` `CSS` `JavaScript`
+  - 덕담 생성 기능, 생성한 덕담 화면에 나타내기 기능
   - [Notion 소개 페이지](https://speckled-origami-292.notion.site/Sparta-Coding-Club-f88c68975a2f4099938bce0df55979de), [Repo](https://github.com/puputia/sparta-2022), [Demo](https://deokdam.spartacodingclub.kr/vyksfqaG8LJw/index.html)
 
 - MyShop: 로그인/회원가입 및 쇼핑 기능이 있는 쇼핑몰 웹 (2022.03 ~ 07)
