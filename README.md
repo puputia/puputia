@@ -39,8 +39,8 @@
 
 - AI 기반 도서 추천 및 공공도서관 연계 서비스 (2024.05 ~ 07, 실무 프로젝트 - 인턴)
   - `React` `JavaScript` `Spring Boot` `PyTorch`
-  - 알라딘 OpenAPI 기반 도서 검색, 상세정보 제공, 유사도서 추천
-  - 좌우 수평 드래그 UI, 공공도서관 대출 여부 조회 기능 구현
+  - 알라딘 OpenAPI 기반 도서 검색 기능 구현, 도서 상세정보 Restful api 연결
+  - 수평 스크롤 드래그 컴포넌트 개발, UI/UX 스타일 지정 개발 총괄  
   - [Repo](https://github.com/BookWise2024/Front-end/tree/FE-TEST), [Demo](https://www.youtube.com/watch?v=AfKHhJPJ950)
 
 - 빼박: 약속 증명 서비스 (2024.12.03 ~ 12.09, 테오의 스프린트 18기)
@@ -49,7 +49,7 @@
   - [Repo](https://github.com/bbaebak/bbaebak-nextjs/), [Demo](https://bbaebak-nextjs.vercel.app/)
 
 - 애니와나: 애니메이션 추천 서비스 (2022.11 ~ 2023.02, SWYG 4기)
-  - `React` `JavaScript` `Styled Components`
+  - `React` `JavaScript` `BootStrap`
   - 응답 기반 추천 알고리즘 설계, 카카오톡·트위터 공유, 넷플릭스/라프텔 시청 링크 제공
   - [Repo](https://github.com/puputia/Ani-wana), [Demo](https://aniwana.swygbro.com/)
 
