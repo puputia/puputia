@@ -31,13 +31,13 @@
 </p>
 
 ### Projects
-- 그린다 플랫폼 관리자 서비스: 포인트 및 수거요청 통합 관리 웹 (2024.09 ~ 12, 인턴 실무)
+- 그린다 플랫폼 관리자 서비스: 포인트 및 수거요청 통합 관리 웹 (2024.09 ~ 12, 실무 프로젝트 - 인턴)
   - `Next.js (pages router)` `TypeScript` `CSS Modules` `Chakra UI`
   - 엑셀 기반 수기 응대 시스템을 웹 기반 실시간 관리 페이지로 전환
   - 1,200건 이상의 데이터를 부드럽게 처리하도록 렌더링 최적화, 검색/필터 기능 구현
-  - [Repo 비공개]
+  - [Repo 비공개] 
 
-- AI 기반 도서 추천 및 공공도서관 연계 서비스 (2024.05 ~ 07, 인턴 실무)
+- AI 기반 도서 추천 및 공공도서관 연계 서비스 (2024.05 ~ 07, 실무 프로젝트 - 인턴)
   - `React` `JavaScript` `Spring Boot` `PyTorch`
   - 알라딘 OpenAPI 기반 도서 검색, 상세정보 제공, 유사도서 추천
   - 좌우 수평 드래그 UI, 공공도서관 대출 여부 조회 기능 구현
@@ -54,7 +54,7 @@
   - [Repo](https://github.com/puputia/Ani-wana), [Demo](https://aniwana.swygbro.com/)
 
 - PHOTOCATE: 이미지 처리 및 사진 분류/편집 웹서비스 (2023.04 ~ 12)
-  - `React`
+  - `React`, `Node.js`, `JavaScript`
   - 메타데이터 기반 사진 분류 및 편집 페이지 제작, 홈/로그인/업로드 구현
   - [Repo](https://github.com/Yongsoojin/capstone/tree/hyein)
 
