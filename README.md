@@ -43,7 +43,7 @@
 
 </p>
 
-### Projects
+### Projects(Front-End)
 - 그린다 플랫폼 관리자 서비스: 포인트 및 수거요청 통합 관리 웹 (2024.09 ~ 12, 실무 프로젝트 - 인턴)
   - `Next.js (pages router)` `TypeScript` `CSS Modules` `Chakra UI`
   - 엑셀 기반 수기 응대 시스템을 웹 기반 실시간 관리 페이지로 전환
@@ -52,24 +52,24 @@
 
 - AI 기반 도서 추천 및 공공도서관 연계 서비스 (2024.05 ~ 07, 실무 프로젝트 - 인턴)
   - `React` `JavaScript` `Spring Boot` `PyTorch`
-  - 알라딘 OpenAPI 기반 도서 검색 기능 구현, 도서 상세정보 Restful api 연결
+  - 알라딘 OpenAPI 기반 도서 검색 기능 구현, 도서 상세정보 api 연결
   - 수평 스크롤 드래그 컴포넌트 개발, UI/UX 스타일 지정 개발 총괄  
   - [Repo](https://github.com/BookWise2024/Front-end/tree/FE-TEST), [Demo](https://www.youtube.com/watch?v=AfKHhJPJ950)
 
 - 빼박: 약속 증명 서비스 (2024.12.03 ~ 12.09, 테오의 스프린트 18기)
   - `Next.js (App Router)` `TypeScript` `Tailwind CSS` `NestJS`
-  - 약속 생성 후 자동 리디렉션 및 도장 모달 UI 구현, SSR Hydration 대응
+  - 약속생성 api 연결, 메인 페이지 개발, 약속 생성 후 자동 리디렉션 및 도장 모달 UI 구현, SSR Hydration 대응
   - [Repo](https://github.com/bbaebak/bbaebak-nextjs/), [Demo](https://bbaebak-nextjs.vercel.app/)
 
 - 애니와나: 애니메이션 추천 서비스 (2022.11 ~ 2023.02, SWYG 4기)
   - `React` `JavaScript` `BootStrap`
-  - 응답 기반 추천 알고리즘 설계, 카카오톡·트위터 공유, 넷플릭스/라프텔 시청 링크 제공
+  - 사용자 응답 기반 애니메이션 추천 알고리즘 설계, 카카오톡·트위터 공유 기능 구현, 넷플릭스/라프텔 시청 링크 제공
   - [Repo](https://github.com/puputia/Ani-wana), [Demo](https://aniwana.swygbro.com/)
 
 - PHOTOCATE: 이미지 처리 및 사진 분류/편집 웹서비스 (2023.04 ~ 12)
   - `React`, `Node.js`, `JavaScript`
-  - 메타데이터 기반 사진 분류 및 편집 페이지 제작, 홈/로그인/업로드 구현
-  - [Repo](https://github.com/Yongsoojin/capstone/tree/hyein)
+  - 메타데이터 기반 사진 분류 및 편집 페이지 제작, 홈/로그인/사진 업로드 구현
+  - [Repo](https://github.com/Yongsoojin/capstone/tree/hyein), [Demo](https://youtu.be/ii06mfJS2Q8)
 
 - MyShop: 로그인/회원가입 및 쇼핑 기능이 있는 쇼핑몰 웹 (2022.03 ~ 07)
   - `HTML` `CSS` `JavaScript`
@@ -90,6 +90,8 @@
 - `동상` 스마트 모빌리티 캡스톤 프로젝트 (2023.06.15)
   - 한양여자대학교 X 디케이아이테크놀로지
   - 이미지 처리 기술 및 메타데이터 기반 스마트 갤러리 개발
+    
+![Visitors](https://komarev.com/ghpvc/?username=puputia&color=blue&style=flat-square)
 
 <!-- 
 ## 🔰 Status
@@ -97,7 +99,7 @@
   
   <img height="180em"  src="https://github-readme-stats-zeta-lac.vercel.app/api?username=puputia&show_icons=true" />
   <img height="180em"  src="https://github-readme-stats-zeta-lac.vercel.app/api/top-langs/?username=puputia&layout=compact&hide=jupyter%20notebook" />
-![Visitors](https://komarev.com/ghpvc/?username=puputia&color=blue&style=flat-square)
+
 
 
 </p>
